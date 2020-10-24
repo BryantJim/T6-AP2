@@ -1,0 +1,11 @@
+PedidosD/Server/bin/*.*
+PedidosD/Server/bin/Debug/*.*
+
+PedidosD/Server/obj/*.*
+PedidosD/Server/obj/Debug/*.*
+
+PedidosD/Client/bin/*.*
+PedidosD/Client/bin/Debug/*.*
+
+PedidosD/Client/obj/*.*
+PedidosD/Client/obj/Debug/*.*
