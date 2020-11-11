@@ -4,6 +4,6 @@ C:\Users\AnthonyB\source\repos\T6-AP2\PedidosD\Shared\bin\Debug\netstandard2.1\P
 C:\Users\AnthonyB\source\repos\T6-AP2\PedidosD\Shared\obj\Debug\netstandard2.1\PedidosD.Shared.csprojAssemblyReference.cache
 C:\Users\AnthonyB\source\repos\T6-AP2\PedidosD\Shared\obj\Debug\netstandard2.1\PedidosD.Shared.AssemblyInfoInputs.cache
 C:\Users\AnthonyB\source\repos\T6-AP2\PedidosD\Shared\obj\Debug\netstandard2.1\PedidosD.Shared.AssemblyInfo.cs
-C:\Users\AnthonyB\source\repos\T6-AP2\PedidosD\Shared\obj\Debug\netstandard2.1\PedidosD.Shared.csproj.CoreCompileInputs.cache
 C:\Users\AnthonyB\source\repos\T6-AP2\PedidosD\Shared\obj\Debug\netstandard2.1\PedidosD.Shared.dll
 C:\Users\AnthonyB\source\repos\T6-AP2\PedidosD\Shared\obj\Debug\netstandard2.1\PedidosD.Shared.pdb
+C:\Users\AnthonyB\source\repos\T6-AP2\PedidosD\Shared\obj\Debug\netstandard2.1\PedidosD.Shared.csproj.CoreCompileInputs.cache
